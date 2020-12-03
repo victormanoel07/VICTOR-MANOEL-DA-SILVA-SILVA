@@ -1,0 +1,714 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-name="CANAIS" group-title="INFANTIL"
+
+
+
+
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR017BabyTV.png" group-title="INFANTIL",Baby TV HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2515.ts
+#EXTINF:-1 tvg-id="baby.br" tvg-name="Baby tv SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR114BabytvSD.png" group-title="INFANTIL",Baby tv SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65669.ts
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR118BoomerangFHD.png" group-title="INFANTIL",Boomerang FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65673.ts
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR011BoomerangBR.png" group-title="INFANTIL",Boomerang HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2521.ts
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR119BoomerangSD.png" group-title="INFANTIL",Boomerang SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65674.ts
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR120CartoonNetworkFHD.png" group-title="INFANTIL",Cartoon Network FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65675.ts
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR120CartoonNetworkFHD.png" group-title="INFANTIL",Cartoon Network 4k
+http://pdsrv.io:80/regina2020/regina2020/33761
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR120CartoonNetworkFHD.png" group-title="INFANTIL",Cartoon Network FHD H265
+http://pdsrv.io:80/regina2020/regina2020/61243
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR013CartoonNetworkBR.png" group-title="INFANTIL",Cartoon Network HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2519.ts
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR121CartoonNetworkSD.png" group-title="INFANTIL",Cartoon Network SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65676.ts
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR147DisneyChannelFHD.png" group-title="INFANTIL",Disney Channel FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65702.ts
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR026DisneyBR.png" group-title="INFANTIL",Disney HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2506.ts
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR148DisneyChannelSD.png" group-title="INFANTIL",Disney Channel SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65703.ts
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="Disney JR FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR149DisneyJRFHD.png" group-title="INFANTIL",Disney JR FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65704.ts
+#EXTINF:-1 tvg-id="disney.junior.br" tvg-name="DISNEY JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR027DISNEYJRBR.png" group-title="INFANTIL",DISNEY JR HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2505.ts
+#EXTINF:-1 tvg-name="Disney JR SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR150DisneyJRSD.png" group-title="INFANTIL",Disney JR SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65705.ts
+#EXTINF:-1 tvg-name="Disney XD FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR151DisneyXDFHD.png" group-title="INFANTIL",Disney XD FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65706.ts
+#EXTINF:-1 tvg-id="disney.xd.br" tvg-name="Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR028DisneyXDBR.png" group-title="INFANTIL",Disney XD HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2504.ts
+#EXTINF:-1 tvg-name="Disney XD SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR152DisneyXDSD.png" group-title="INFANTIL",Disney XD SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65707.ts
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR136DiscoveryKidsFHD.png" group-title="INFANTIL",Discovery Kids FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65691.ts
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR021DiscoveryKids.png" group-title="INFANTIL",Discovery Kids HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2511.ts
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR137DiscoveryKidsSD.png" group-title="INFANTIL",Discovery Kids SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65692.ts
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR049Gloobinho.png" group-title="INFANTIL",Gloobinho HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2483.ts
+#EXTINF:-1 tvg-name="Gloobinho SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR182GloobinhoSD.png" group-title="INFANTIL",Gloobinho SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65737.ts
+#EXTINF:-1 tvg-name="Gloob FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR180GloobFHD.png" group-title="INFANTIL",Gloob FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65735.ts
+#EXTINF:-1 tvg-name="Gloob SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR181GloobSD.png" group-title="INFANTIL",Gloob SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65736.ts
+#EXTINF:-1 tvg-name="Nat Geo Kids FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR210NatGeoKidsFHD.png" group-title="INFANTIL",Nat Geo Kids FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65765.ts
+#EXTINF:-1 tvg-id="nat.geo.kids.br" tvg-name="NAT GEO Kids HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR069NATGEOKidsBR.png" group-title="INFANTIL",NAT GEO Kids HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2463.ts
+#EXTINF:-1 tvg-name="Nat Geo Kids SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR211NatGeoKidsSD.png" group-title="INFANTIL",Nat Geo Kids SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65766.ts
+#EXTINF:-1 tvg-name="Nick JR FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR214NickJRFHD.png" group-title="INFANTIL",Nick JR FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65769.ts
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR071NICKJRBR.png" group-title="INFANTIL",NICK JR HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2461.ts
+#EXTINF:-1 tvg-name="Nick JR SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR215NickJRSD.png" group-title="INFANTIL",Nick JR SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65770.ts
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR072NickelodeonBR.png" group-title="INFANTIL",Nickelodeon HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2460.ts
+#EXTINF:-1 tvg-name="Nickelodeon SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR216NickelodeonSD.png" group-title="INFANTIL",Nickelodeon SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65771.ts
+#EXTINF:-1 tvg-id="ra.tim.bum.br" tvg-name="TV Ra Tim Bum" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR102TVRaTimBum.png" group-title="INFANTIL",TV Ra Tim Bum
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2430.ts
+
+
+
+
+#EXTINF:-1 tvg-name="CANAIS" group-title="FILMES E SERIES"
+
+
+
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR104AEFHD.png" group-title="FILMES E SERIES",A&E FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65659.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR001A&EBR.png" group-title="FILMES E SERIES",A&E HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2531.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR106AMCFHD.png" group-title="FILMES E SERIES",AMC FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65661.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR002AMCBR.png" group-title="FILMES E SERIES",AMC HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2530.ts
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR107AMCSD.png" group-title="FILMES E SERIES",AMC SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65662.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR112AXNFHD.png" group-title="FILMES E SERIES",AXN FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65667.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR005AXNBR.png" group-title="FILMES E SERIES",AXN HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2527.ts
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR113AXNSD.png" group-title="FILMES E SERIES",AXN SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65668.ts0
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR122CinemaxFHD.png" group-title="FILMES E SERIES",Cinemax FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65677.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR014CinemaxBR.png" group-title="FILMES E SERIES",Cinemax HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2518.ts
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR123CinemaxSD.png" group-title="FILMES E SERIES",Cinemax SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65678.ts
+#EXTINF:-1 tvg-name="Fox FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR162FoxFHD.png" group-title="FILMES E SERIES",Fox FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65717.ts
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR038FoxBR.png" group-title="FILMES E SERIES",Fox HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2494.ts
+#EXTINF:-1 tvg-name="Fox SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR168FoxSD.png" group-title="FILMES E SERIES",Fox SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65723.ts
+#EXTINF:-1 tvg-name="Fox Premium 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR164FoxPremium1FHD.png" group-title="FILMES E SERIES",Fox Premium 1 FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65719.ts
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Fox Permium 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR040FoxPermium1.png" group-title="FILMES E SERIES",Fox Permium 1 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2492.ts
+#EXTINF:-1 tvg-name="Fox Premium 1 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR165FoxPremium1SD.png" group-title="FILMES E SERIES",Fox Premium 1 SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65720.ts
+#EXTINF:-1 tvg-name="Fox Premium 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR166FoxPremium2FHD.png" group-title="FILMES E SERIES",Fox Premium 2 FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65721.ts
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Fox Premium 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR041FoxPremium2.png" group-title="FILMES E SERIES",Fox Premium 2 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2491.ts
+#EXTINF:-1 tvg-name="Fox Premium 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR167FoxPremium2SD.png" group-title="FILMES E SERIES",Fox Premium 2 SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65722.ts
+#EXTINF:-1 tvg-name="Fx FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR173FxFHD.png" group-title="FILMES E SERIES",Fx FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65728.ts
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR044FXBR.png" group-title="FILMES E SERIES",FX HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2488.ts
+#EXTINF:-1 tvg-name="Fx SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR174FxSD.png" group-title="FILMES E SERIES",Fx SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65729.ts
+#EXTINF:-1 tvg-id="max.br" tvg-name="Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR061Max.png" group-title="FILMES E SERIES",Max
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2471.ts
+#EXTINF:-1 tvg-id="max.prime.br" tvg-name="Max Prime" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR062MaxPrime.png" group-title="FILMES E SERIES",Max Prime
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2470.ts
+#EXTINF:-1 tvg-id="max.up.br" tvg-name="Max Up" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR063MaxUp.png" group-title="FILMES E SERIES",Max Up
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2469.ts
+#EXTINF:-1 tvg-name="Megapix FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR203MegapixFHD.png" group-title="FILMES E SERIES",Megapix FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65758.ts
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MegaPix HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR064MegaPix.png" group-title="FILMES E SERIES",MegaPix HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2468.ts
+#EXTINF:-1 tvg-name="Megapix SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR204MegapixSD.png" group-title="FILMES E SERIES",Megapix SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65759.ts
+#EXTINF:-1 tvg-name="Paramount Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR218ParamountChannelFHD.png" group-title="FILMES E SERIES",Paramount Channel FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65773.ts
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR074ParamountBR.png" group-title="FILMES E SERIES",Paramount Channel HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2458.ts
+#EXTINF:-1 tvg-name="Paramount Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR219ParamountChannelSD.png" group-title="FILMES E SERIES",Paramount Channel SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65774.ts
+#EXTINF:-1 tvg-name="Space FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR232SpaceFHD.png" group-title="FILMES E SERIES",Space FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65787.ts
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR086SpaceBR.png" group-title="FILMES E SERIES",Space HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2446.ts
+#EXTINF:-1 tvg-name="Space SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR233SpaceSD.png" group-title="FILMES E SERIES",Space SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65788.ts
+#EXTINF:-1 tvg-name="Studio Universal FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR240StudioUniversalFHD.png" group-title="FILMES E SERIES",Studio Universal FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65795.ts
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR090StudioUniversal.png" group-title="FILMES E SERIES",Studio Universal HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2442.ts
+#EXTINF:-1 tvg-name="Studio Universal SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR241StudioUniversalSD.png" group-title="FILMES E SERIES",Studio Universal SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65796.ts
+#EXTINF:-1 tvg-name="Syfy FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR242SyfyFHD.png" group-title="FILMES E SERIES",Syfy FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65797.ts
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR091SYFYBR.png" group-title="FILMES E SERIES",SYFY HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2441.ts
+#EXTINF:-1 tvg-name="Syfy SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR243SyfySD.png" group-title="FILMES E SERIES",Syfy SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65798.ts
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR099TLCBR.png" group-title="FILMES E SERIES",TLC HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2433.ts
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR092TBSBR.png" group-title="FILMES E SERIES",TBS HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2440.ts
+#EXTINF:-1 tvg-name="Tbs SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR244TbsSD.png" group-title="FILMES E SERIES",Tbs SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65799.ts
+#EXTINF:-1 tvg-name="TNT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR257TNTFHD.png" group-title="FILMES E SERIES",TNT FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65812.ts
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR100TNTBR.png" group-title="FILMES E SERIES",TNT HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2432.ts
+#EXTINF:-1 tvg-name="TNT SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR258TNTSD.png" group-title="FILMES E SERIES",TNT SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65813.ts
+#EXTINF:-1 tvg-name="TNT Series FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR259TNTSeriesFHD.png" group-title="FILMES E SERIES",TNT Series FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65814.ts
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT Series  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR101TNTSeriesBR.png" group-title="FILMES E SERIES",TNT Series  HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2431.ts
+#EXTINF:-1 tvg-name="TNT Series SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR260TNTSeriesSD.png" group-title="FILMES E SERIES",TNT Series SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65815.ts
+#EXTINF:-1 tvg-name="Universal Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR261UniversalChannelFHD.png" group-title="FILMES E SERIES",Universal Channel FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65816.ts
+#EXTINF:-1 tvg-id="universal.br" tvg-name="Universal Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR103Universal.png" group-title="FILMES E SERIES",Universal Channel HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2429.ts
+#EXTINF:-1 tvg-name="Universal Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR262UniversalChannelSD.png" group-title="FILMES E SERIES",Universal Channel SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65817.ts
+#EXTINF:-1 tvg-name="Warner Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR266WarnerChannelFHD.png" group-title="FILMES E SERIES",Warner Channel FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65821.ts
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR082WarnerChannel.png" group-title="FILMES E SERIES",Warner Channel HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2450.ts
+#EXTINF:-1 tvg-name="Warner Channel SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR267WarnerChannelSD.png" group-title="FILMES E SERIES",Warner Channel SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65822.ts
+
+
+
+
+#EXTINF:-1 tvg-name="CANAIS" group-title="HBO"
+
+
+
+
+#EXTINF:-1 tvg-name="Hbo FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR189HboFHD.png" group-title="HBO",Hbo FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65744.ts
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="Hbo HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR054HBOBR.png" group-title="HBO",Hbo HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2478.ts
+#EXTINF:-1 tvg-name="Hbo SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR193HBOSD.png" group-title="HBO",Hbo SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65748.ts
+#EXTINF:-1 tvg-name="Hbo 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR186Hbo2FHD.png" group-title="HBO",Hbo 2 FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65741.ts
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="Hbo 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR052HBO2BR.png" group-title="HBO",Hbo 2 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2480.ts
+#EXTINF:-1 tvg-name="Hbo 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR187Hbo2SD.png" group-title="HBO",Hbo 2 SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65742.ts
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="Hbo Family HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR053HBOFamilyBR.png" group-title="HBO",Hbo Family HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2479.ts
+#EXTINF:-1 tvg-name="Hbo family SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR188HbofamilySD.png" group-title="HBO",Hbo family SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65743.ts
+#EXTINF:-1 tvg-name="Hbo Mundi SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR190HboMundiSD.png" group-title="HBO",Hbo Mundi SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65745.ts
+#EXTINF:-1 tvg-name="Hbo Plus FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR191HboPlusFHD.png" group-title="HBO",Hbo Plus FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65746.ts
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="Hbo Plus HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR055HBOPlusBR.png" group-title="HBO",Hbo Plus HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2477.ts
+#EXTINF:-1 tvg-name="Hbo Plus SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR192HboPlusSD.png" group-title="HBO",Hbo Plus SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65747.ts
+#EXTINF:-1 tvg-name="Hbo Signature FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR194HboSignatureFHD.png" group-title="HBO",Hbo Signature FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65749.ts
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="Hbo Signature HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR056HBOSignatureBR.png" group-title="HBO",Hbo Signature HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2476.ts
+#EXTINF:-1 tvg-name="Hbo Signature SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR195HboSignatureSD.png" group-title="HBO",Hbo Signature SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65750.ts
+#EXTINF:-1 tvg-name="Hbo Xtreme FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR196HboXtremeFHD.png" group-title="HBO",Hbo Xtreme FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65751.ts
+#EXTINF:-1 tvg-name="Hbo Xtreme SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR197HboXtremeSD.png" group-title="HBO",Hbo Xtreme SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65752.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="CANAIS" group-title="PREMIERE"
+
+
+
+
+#EXTINF:-1 tvg-name="Premiere 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR220Premiere2FHD.png" group-title="PREMIERE",Premiere 2 FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65775.ts
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR075Premiere2.png" group-title="PREMIERE",Premiere 2 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2457.ts
+#EXTINF:-1 tvg-name="Premiere 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR221Premiere2SD.png" group-title="PREMIERE",Premiere 2 SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65776.ts
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR076Premiere3.png" group-title="PREMIERE",Premiere 3 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2456.ts
+#EXTINF:-1 tvg-name="Premiere 3 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR222Premiere3SD.png" group-title="PREMIERE",Premiere 3 SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65777.ts
+#EXTINF:-1 tvg-name="Premiere 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR223Premiere4FHD.png" group-title="PREMIERE",Premiere 4 FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65778.ts
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR077Premiere4.png" group-title="PREMIERE",Premiere 4 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2455.ts
+#EXTINF:-1 tvg-name="Premiere 4 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR224Premiere4SD.png" group-title="PREMIERE",Premiere 4 SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65779.ts
+#EXTINF:-1 tvg-name="Premiere 5 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR225Premiere5FHD.png" group-title="PREMIERE",Premiere 5 FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65780.ts
+#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="Premiere 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR078Premiere5.png" group-title="PREMIERE",Premiere 5 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2454.ts
+#EXTINF:-1 tvg-name="Premiere 5 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR226Premiere5SD.png" group-title="PREMIERE",Premiere 5 SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65781.ts
+#EXTINF:-1 tvg-name="Premiere Clubes FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR227PremiereClubesFHD.png" group-title="PREMIERE",Premiere Clubes FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65782.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR081PremiereClubes.png" group-title="PREMIERE",Premiere Clubes HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2451.ts
+#EXTINF:-1 tvg-name="Premiere Clubes SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR228PremiereClubesSD.png" group-title="PREMIERE",Premiere Clubes SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65783.ts
+
+
+
+
+#EXTINF:-1 tvg-name="CANAIS" group-title="TELECINE"
+
+
+
+
+
+#EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR245TelecineActionFHD.png" group-title="TELECINE",Telecine Action FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65800.ts
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR093TelecineAction.png" group-title="TELECINE",Telecine Action HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2439.ts
+#EXTINF:-1 tvg-name="Telecine Action SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR246TelecineActionSD.png" group-title="TELECINE",Telecine Action SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65801.ts
+#EXTINF:-1 tvg-name="Telecine Cult FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR247TelecineCultFHD.png" group-title="TELECINE",Telecine Cult FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65802.ts
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="Telecine Cult HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR094TelecineCult.png" group-title="TELECINE",Telecine Cult HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2438.ts
+#EXTINF:-1 tvg-name="Telecine Cult SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR248TelecineCultSD.png" group-title="TELECINE",Telecine Cult SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65803.ts
+#EXTINF:-1 tvg-name="Telecine Fun FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR249TelecineFunFHD.png" group-title="TELECINE",Telecine Fun FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65804.ts
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR095TelecineFun.png" group-title="TELECINE",Telecine Fun HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2437.ts
+#EXTINF:-1 tvg-name="Telecine Fun SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR250TelecineFunSD.png" group-title="TELECINE",Telecine Fun SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65805.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR251TelecinePipocaFHD.png" group-title="TELECINE",Telecine Pipoca FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65806.ts
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR096TelecinePipoca.png" group-title="TELECINE",Telecine Pipoca HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2436.ts
+#EXTINF:-1 tvg-name="Telecine Pipoca SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR252TelecinePipocaSD.png" group-title="TELECINE",Telecine Pipoca SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65807.ts
+#EXTINF:-1 tvg-name="Telecine Premium FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR253TelecinePremiumFHD.png" group-title="TELECINE",Telecine Premium FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65808.ts
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR097TelecinePremium.png" group-title="TELECINE",Telecine Premium HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2435.ts
+#EXTINF:-1 tvg-name="Telecine Premium SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR254TelecinePremiumSD.png" group-title="TELECINE",Telecine Premium SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65809.ts
+#EXTINF:-1 tvg-name="Telecine Touch FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR255TelecineTouchFHD.png" group-title="TELECINE",Telecine Touch FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65810.ts
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR098TelecineTouch.png" group-title="TELECINE",Telecine Touch HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2434.ts
+#EXTINF:-1 tvg-name="Telecine Touch SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BR/BR256TelecineTouchSD.png" group-title="TELECINE",Telecine Touch SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65811.ts
+
+
+
+
+#EXTINF:-1 tvg-name="CANAIS" group-title="ESPORTE"
+
+
+
+
+#EXTINF:-1 tvg-id="band.sports." tvg-name="Band Sports HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//008BandSports.png" group-title="ESPORTE",Band Sports HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2524.ts
+#EXTINF:-1 tvg-id="bandsports." tvg-name="Band Sports SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//117BandSportsSD.png" group-title="ESPORTE",Band Sports SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65672.ts
+#EXTINF:-1 tvg-id="combate." tvg-name="Combate FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//126CombateFHD.png" group-title="ESPORTE",Combate FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65681.ts
+#EXTINF:-1 tvg-id="combate." tvg-name="Combate HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//015Combate.png" group-title="ESPORTE",Combate HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2517.ts
+#EXTINF:-1 tvg-id="combate." tvg-name="Combate SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//127CombateSD.png" group-title="ESPORTE",Combate SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65682.ts
+#EXTINF:-1 tvg-name="Espn FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//157EspnFHD.png" group-title="ESPORTE",Espn FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65712.ts
+#EXTINF:-1 tvg-id="espn." tvg-name="ESPN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//033ESPN.png" group-title="ESPORTE",ESPN HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2499.ts
+#EXTINF:-1 tvg-name="Espn SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//158EspnSD.png" group-title="ESPORTE",Espn SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65713.ts
+#EXTINF:-1 tvg-name="Espn asil FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//154EspnasilFHD.png" group-title="ESPORTE",Espn asil FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65709.ts
+#EXTINF:-1 tvg-id="espn.asil." tvg-name="ESPN ASIL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//031ESPNASIL.png" group-title="ESPORTE",ESPN ASIL HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2501.ts
+#EXTINF:-1 tvg-name="Espn asil SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//155EspnasilSD.png" group-title="ESPORTE",Espn asil SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65710.ts
+#EXTINF:-1 tvg-id="espn.extra." tvg-name="ESPN Extra HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//030ESPNExtra.png" group-title="ESPORTE",ESPN Extra HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2502.ts
+#EXTINF:-1 tvg-name="Espn Extra SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//156EspnExtraSD.png" group-title="ESPORTE",Espn Extra SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65711.ts
+#EXTINF:-1 tvg-id="sony." tvg-name="FISH TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//012CanalSony.png" group-title="ESPORTE",FISH TV HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2520.ts
+#EXTINF:-1 tvg-name="Fish TV SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//159FishTVSD.png" group-title="ESPORTE",Fish TV SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65714.ts
+#EXTINF:-1 tvg-id="off." tvg-name="Off HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//073OFF.png" group-title="ESPORTE",Off HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2459.ts
+#EXTINF:-1 tvg-name="Off SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//217OffSD.png" group-title="ESPORTE",Off SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65772.ts
+#EXTINF:-1 tvg-name="Fox Sports 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//169FoxSports2FHD.png" group-title="ESPORTE",Fox Sports 2 FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65724.ts
+#EXTINF:-1 tvg-id="fox.sports.2." tvg-name="Fox Sports 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//042FoxSports2.png" group-title="ESPORTE",Fox Sports 2 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2490.ts
+#EXTINF:-1 tvg-name="Fox Sports 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//170FoxSports2SD.png" group-title="ESPORTE",Fox Sports 2 SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65725.ts
+#EXTINF:-1 tvg-name="Fox Sports FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//171FoxSportsFHD.png" group-title="ESPORTE",Fox Sports FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65726.ts
+#EXTINF:-1 tvg-id="fox.sports." tvg-name="Fox Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//043FoxSports1.png" group-title="ESPORTE",Fox Sports 1 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2489.ts
+#EXTINF:-1 tvg-name="Fox Sports SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//172FoxSportsSD.png" group-title="ESPORTE",Fox Sports SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65727.ts
+#EXTINF:-1 tvg-name="Sportv 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//236Sportv3FHD.png" group-title="ESPORTE",Sportv 3 FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65791.ts
+#EXTINF:-1 tvg-id="sportv.3." tvg-name="Sport TV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//088SportTV3.png" group-title="ESPORTE",Sport TV 3 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2444.ts
+#EXTINF:-1 tvg-name="Sportv 3 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//237Sportv3SD.png" group-title="ESPORTE",Sportv 3 SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65792.ts
+#EXTINF:-1 tvg-name="Sportv 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//234Sportv2FHD.png" group-title="ESPORTE",Sportv 2 FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65789.ts
+#EXTINF:-1 tvg-id="sportv.2." tvg-name="Sport TV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//087SportTV2.png" group-title="ESPORTE",Sport TV 2 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2445.ts
+#EXTINF:-1 tvg-name="Sportv 2 SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//235Sportv2SD.png" group-title="ESPORTE",Sportv 2 SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65790.ts
+#EXTINF:-1 tvg-name="Sportv FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//238SportvFHD.png" group-title="ESPORTE",Sportv FHD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65793.ts
+#EXTINF:-1 tvg-id="sportv." tvg-name="Sport TV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//089SportTV1.png" group-title="ESPORTE",Sport TV 1 HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2443.ts
+#EXTINF:-1 tvg-name="Sportv SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//239SportvSD.png" group-title="ESPORTE",Sportv SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65794.ts
+#EXTINF:-1 tvg-id="pfc." tvg-name="PFC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//034PFC.png" group-title="ESPORTE",PFC HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2498.ts
+#EXTINF:-1 tvg-id="woohoo." tvg-name="WOOHOO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//032WOOHOO.png" group-title="ESPORTE",WOOHOO HD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/2500.ts
+#EXTINF:-1 tvg-name="Woohoo SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo//268WoohooSD.png" group-title="ESPORTE",Woohoo SD
+http://a2.okbetter.club:8880/live/wh12m2403/f2AaVyrb2w/65823.ts
+#EXTINF:-1  tvg-name="CBF TV" tvg-logo="https://storage.googleapis.com/cpt-partners-content-prod/9f1c0523-c782-40f3-b59d-b0133e0a4a07.png" group-title="ESPORTE",CBF TV
+https://wallpapercave.com/wp/JfL0NNW.jpg
+
+
+
+
+#EXTINF:-1 tvg-name="CANAIS" group-title="ip"
+
+
+
+
+#EXTINF:-1 group-title="ip",CARTOON 4K 
+http://pdsrv.io:80/regina2020/regina2020/33761
+#EXTINF:-1 group-title="ip",CARTOON NETWORK FHD H265 
+http://pdsrv.io:80/regina2020/regina2020/61243
+#EXTINF:-1 group-title="ip",CARTOON NETWORK FHD H265
+http://pdsrv.io:80/regina2020/regina2020/13210
+#EXTINF:-1 group-title="ip",CARTOON NETWORK HD
+http://pdsrv.io:80/regina2020/regina2020/61104
+#EXTINF:-1 group-title="ip",CARTOON NETWORK HD
+http://pdsrv.io:80/regina2020/regina2020/7817
+#EXTINF:-1 group-title="ip",CARTOON NETWORK SD
+http://pdsrv.io:80/regina2020/regina2020/61103
+#EXTINF:-1 group-title="ip",CARTOON NETWORK SD
+http://pdsrv.io:80/regina2020/regina2020/4394
+#EXTINF:-1 group-title="ip",TELECINE ACTION FHD H264
+http://pdsrv.io:80/regina2020/regina2020/63291
+#EXTINF:-1 group-title="ip",TELECINE ACTION FHD H265
+http://pdsrv.io:80/regina2020/regina2020/8141
+#EXTINF:-1 group-title="ip",TELECINE ACTION FHD 
+http://pdsrv.io:80/regina2020/regina2020/61219
+#EXTINF:-1 group-title="ip",TELECINE ACTION HD 
+http://pdsrv.io:80/regina2020/regina2020/61006
+#EXTINF:-1 group-title="ip",TELECINE ACTION HD
+http://pdsrv.io:80/regina2020/regina2020/6080
+#EXTINF:-1 group-title="ip",TELECINE ACTION SD
+http://pdsrv.io:80/regina2020/regina2020/61005
+#EXTINF:-1 group-title="ip",TELECINE ACTION SD
+http://pdsrv.io:80/regina2020/regina2020/4320
+#EXTINF:-1 group-title="ip",TELECINE CULT FHD 
+http://pdsrv.io:80/regina2020/regina2020/47759
+#EXTINF:-1 group-title="ip",TELECINE CULT 
+http://pdsrv.io:80/regina2020/regina2020/58330
+#EXTINF:-1 group-title="ip",TELECINE CULT FHD 
+http://pdsrv.io:80/regina2020/regina2020/63295
+#EXTINF:-1 group-title="ip",TELECINE CULT FHD H265
+http://pdsrv.io:80/regina2020/regina2020/8143
+#EXTINF:-1 group-title="ip",TELECINE CULT FHD
+http://pdsrv.io:80/regina2020/regina2020/61220
+#EXTINF:-1 group-title="ip",TELECINE CULT HD
+http://pdsrv.io:80/regina2020/regina2020/61008
+#EXTINF:-1 group-title="ip",TELECINE CULT HD
+http://pdsrv.io:80/regina2020/regina2020/10247
+#EXTINF:-1 group-title="ip",TELECINE CULT SD
+http://pdsrv.io:80/regina2020/regina2020/61007
+#EXTINF:-1 group-title="ip",TELECINE CULT SD
+http://pdsrv.io:80/regina2020/regina2020/4319
+#EXTINF:-1 group-title="ip",TELECINE FUN FHD H264
+http://pdsrv.io:80/regina2020/regina2020/63294
+#EXTINF:-1 group-title="ip",TELECINE FUN FHD H265
+http://pdsrv.io:80/regina2020/regina2020/11561
+#EXTINF:-1 group-title="ip",TELECINE FUN FHD
+http://pdsrv.io:80/regina2020/regina2020/61221
+#EXTINF:-1 group-title="ip",TELECINE FUN HD 
+http://pdsrv.io:80/regina2020/regina2020/61010
+#EXTINF:-1 group-title="ip",TELECINE FUN HD
+http://pdsrv.io:80/regina2020/regina2020/6079
+#EXTINF:-1 group-title="ip",TELECINE FUN SD
+http://pdsrv.io:80/regina2020/regina2020/61009
+#EXTINF:-1 group-title="ip",TELECINE FUN SD
+http://pdsrv.io:80/regina2020/regina2020/4318
+#EXTINF:-1 group-title="ip",TELECINE PIPOCA FHD H264
+http://pdsrv.io:80/regina2020/regina2020/63293
+#EXTINF:-1 group-title="ip",TELECINE PIPOCA FHD H265
+http://pdsrv.io:80/regina2020/regina2020/8144
+#EXTINF:-1 group-title="ip",TELECINE PIPOCA FHD H265 
+http://pdsrv.io:80/regina2020/regina2020/61222
+#EXTINF:-1 group-title="ip",TELECINE PIPOCA FHD
+http://pdsrv.io:80/regina2020/regina2020/62407
+#EXTINF:-1 group-title="ip",TELECINE PIPOCA HD 
+http://pdsrv.io:80/regina2020/regina2020/61012
+#EXTINF:-1 group-title="ip",TELECINE PIPOCA HD
+http://pdsrv.io:80/regina2020/regina2020/6078
+#EXTINF:-1 group-title="ip",TELECINE PIPOCA SD
+http://pdsrv.io:80/regina2020/regina2020/61011
+#EXTINF:-1 group-title="ip",TELECINE PIPOCA SD
+http://pdsrv.io:80/regina2020/regina2020/4317
+#EXTINF:-1 group-title="ip",TELECINE PREMIUM 4K 
+http://pdsrv.io:80/regina2020/regina2020/47746
+#EXTINF:-1 group-title="ip",TELECINE PREMIUM FHD H264
+http://pdsrv.io:80/regina2020/regina2020/63290
+#EXTINF:-1 group-title="ip",TELECINE PREMIUM FHD H265
+http://pdsrv.io:80/regina2020/regina2020/8140
+#EXTINF:-1 group-title="ip",TELECINE PREMIUM H265 
+http://pdsrv.io:80/regina2020/regina2020/61223
+#EXTINF:-1 group-title="ip",TELECINE PREMIUM HD 
+http://pdsrv.io:80/regina2020/regina2020/61014
+#EXTINF:-1 group-title="ip",TELECINE PREMIUM HD
+http://pdsrv.io:80/regina2020/regina2020/6077
+#EXTINF:-1 group-title="ip",TELECINE PREMIUM SD
+http://pdsrv.io:80/regina2020/regina2020/61013
+#EXTINF:-1 group-title="ip",TELECINE PREMIUM SD
+http://pdsrv.io:80/regina2020/regina2020/4316
+#EXTINF:-1 group-title="ip",TELECINE TOUCH FHD H264
+http://pdsrv.io:80/regina2020/regina2020/63292
+#EXTINF:-1 group-title="ip",TELECINE TOUCH FHD H265
+http://pdsrv.io:80/regina2020/regina2020/25016
+#EXTINF:-1 group-title="ip",TELECINE TOUCH FHD
+http://pdsrv.io:80/regina2020/regina2020/61224
+#EXTINF:-1 group-title="ip",TELECINE TOUCH HD 
+http://pdsrv.io:80/regina2020/regina2020/61016
+#EXTINF:-1 group-title="ip",TELECINE TOUCH HD
+http://pdsrv.io:80/regina2020/regina2020/6076
+#EXTINF:-1 group-title="ip",TELECINE TOUCH SD
+http://pdsrv.io:80/regina2020/regina2020/61015
+#EXTINF:-1 group-title="ip",TELECINE TOUCH SD
+http://pdsrv.io:80/regina2020/regina2020/4315
+#EXTINF:-1 group-title="ip",WARNER CHANNEL FHD H265
+http://pdsrv.io:80/regina2020/regina2020/61228
+#EXTINF:-1 group-title="ip",WARNER CHANNEL FHD H265
+http://pdsrv.io:80/regina2020/regina2020/11525
+#EXTINF:-1 group-title="ip",WARNER CHANNEL HD
+http://pdsrv.io:80/regina2020/regina2020/61024
+#EXTINF:-1 group-title="ip",WARNER CHANNEL HD
+http://pdsrv.io:80/regina2020/regina2020/6072
+#EXTINF:-1 group-title="ip",WARNER CHANNEL SD
+http://pdsrv.io:80/regina2020/regina2020/61023
+#EXTINF:-1 group-title="ip",WARNER CHANNEL SD
+http://pdsrv.io:80/regina2020/regina2020/4307
+#EXTINF:-1 group-title="ip",BOOMERANG FHD H265
+http://pdsrv.io:80/regina2020/regina2020/11534
+#EXTINF:-1 group-title="ip",BOOMERANG FHD
+http://pdsrv.io:80/regina2020/regina2020/63072
+#EXTINF:-1 group-title="ip",BOOMERANG HD 
+http://pdsrv.io:80/regina2020/regina2020/62840
+#EXTINF:-1 group-title="ip",BOOMERANG HD 
+http://pdsrv.io:80/regina2020/regina2020/61102
+#EXTINF:-1 group-title="ip",BOOMERANG SD
+http://pdsrv.io:80/regina2020/regina2020/61101
+#EXTINF:-1 group-title="ip",BOOMERANG SD
+http://pdsrv.io:80/regina2020/regina2020/4396
+#EXTINF:-1 group-title="ip",NICK FHD H265
+http://pdsrv.io:80/regina2020/regina2020/61250
+#EXTINF:-1 group-title="ip",NICK HD
+http://pdsrv.io:80/regina2020/regina2020/61123
+#EXTINF:-1 group-title="ip",NICK JR FHD H265
+http://pdsrv.io:80/regina2020/regina2020/61251
+#EXTINF:-1 group-title="ip",NICK JR FHD H265
+http://pdsrv.io:80/regina2020/regina2020/11527
+#EXTINF:-1 group-title="ip",NICK JR HD
+http://pdsrv.io:80/regina2020/regina2020/61125
+#EXTINF:-1 group-title="ip",NICK JR HD
+http://pdsrv.io:80/regina2020/regina2020/10260
+#EXTINF:-1 group-title="ip",NICK JR SD
+http://pdsrv.io:80/regina2020/regina2020/61124
+#EXTINF:-1 group-title="ip",NICK JR SD
+http://pdsrv.io:80/regina2020/regina2020/4346
+#EXTINF:-1 group-title="ip",NICK SD
+http://pdsrv.io:80/regina2020/regina2020/61122
+#EXTINF:-1 group-title="ip",NICKELODEON FHD H265
+http://pdsrv.io:80/regina2020/regina2020/11526
+#EXTINF:-1 group-title="ip",NICKELODEON HD
+http://pdsrv.io:80/regina2020/regina2020/61127
+#EXTINF:-1 group-title="ip",NICKELODEON HD
+http://pdsrv.io:80/regina2020/regina2020/7537
+#EXTINF:-1 group-title="ip",NICKELODEON SD
+http://pdsrv.io:80/regina2020/regina2020/61126
+#EXTINF:-1 group-title="ip",NICKELODEON SD
+http://pdsrv.io:80/regina2020/regina2020/4345
+#EXTINF:-1 group-title="ip",GLOOB FHD H265
+http://pdsrv.io:80/regina2020/regina2020/60857
+#EXTINF:-1 group-title="ip",GLOOB HD
+http://pdsrv.io:80/regina2020/regina2020/61117
+#EXTINF:-1 group-title="ip",GLOOB HD
+http://pdsrv.io:80/regina2020/regina2020/7526
+#EXTINF:-1 group-title="ip",GLOOB SD
+http://pdsrv.io:80/regina2020/regina2020/61116
+#EXTINF:-1 group-title="ip",GLOOB SD
+http://pdsrv.io:80/regina2020/regina2020/4369
+#EXTINF:-1 group-title="ip",MOSAICO PREMIERE HD
+http://pdsrv.io:80/regina2020/regina2020/69142
+#EXTINF:-1 group-title="ip",PREMIERE CLUBE FHD H264
+http://pdsrv.io:80/regina2020/regina2020/61452
+#EXTINF:-1 group-title="ip",PREMIERE CLUBES  4K
+http://pdsrv.io:80/regina2020/regina2020/33753
+#EXTINF:-1 group-title="ip",PREMIERE CLUBES FHD
+http://pdsrv.io:80/regina2020/regina2020/62412
+#EXTINF:-1 group-title="ip",PREMIERE CLUBES FHD H265
+http://pdsrv.io:80/regina2020/regina2020/9144
+#EXTINF:-1 group-title="ip",PREMIERE CLUBES HD 
+http://pdsrv.io:80/regina2020/regina2020/62414
+#EXTINF:-1 group-title="ip",PREMIERE CLUBES HD
+http://pdsrv.io:80/regina2020/regina2020/61045
+#EXTINF:-1 group-title="ip",PREMIERE CLUBES  HD
+http://pdsrv.io:80/regina2020/regina2020/6089
+#EXTINF:-1 group-title="ip",PREMIERE CLUBES SD
+http://pdsrv.io:80/regina2020/regina2020/61044
+#EXTINF:-1 group-title="ip",PREMIERE CLUBES SD
+http://pdsrv.io:80/regina2020/regina2020/4333
+#EXTINF:-1 group-title="ip",PREMIER 2 FHD H265
+http://pdsrv.io:80/regina2020/regina2020/8149
+#EXTINF:-1 group-title="ip",PREMIERE 2 FHD H264
+http://pdsrv.io:80/regina2020/regina2020/69143
+#EXTINF:-1 group-title="ip",PREMIERE 2 HD 
+http://pdsrv.io:80/regina2020/regina2020/62436
+#EXTINF:-1 group-title="ip",PREMIERE 2 HD
+http://pdsrv.io:80/regina2020/regina2020/61047
+#EXTINF:-1 group-title="ip",PREMIERE 2 HD
+http://pdsrv.io:80/regina2020/regina2020/6093
+#EXTINF:-1 group-title="ip",PREMIERE 2 SD
+http://pdsrv.io:80/regina2020/regina2020/61046
+#EXTINF:-1 group-title="ip",PREMIERE 2 SD
+http://pdsrv.io:80/regina2020/regina2020/4341
+#EXTINF:-1 group-title="ip",PREMIERE 3 FHD
+http://pdsrv.io:80/regina2020/regina2020/61266
+#EXTINF:-1 group-title="ip",PREMIERE 3 HD 
+http://pdsrv.io:80/regina2020/regina2020/62440
+#EXTINF:-1 group-title="ip",PREMIERE 3 HD 
+http://pdsrv.io:80/regina2020/regina2020/61049
+#EXTINF:-1 group-title="ip",PREMIERE 3 HD
+http://pdsrv.io:80/regina2020/regina2020/6092
+#EXTINF:-1 group-title="ip",PREMIERE 3 SD
+http://pdsrv.io:80/regina2020/regina2020/61048
+#EXTINF:-1 group-title="ip",PREMIERE 3 SD
+http://pdsrv.io:80/regina2020/regina2020/4340
+#EXTINF:-1 group-title="ip",PREMIERE 4 FHD H264
+http://pdsrv.io:80/regina2020/regina2020/69145
+#EXTINF:-1 group-title="ip",PREMIERE 4 FHD H265
+http://pdsrv.io:80/regina2020/regina2020/11552
+#EXTINF:-1 group-title="ip",PREMIERE 4 FHD 
+http://pdsrv.io:80/regina2020/regina2020/61267
+#EXTINF:-1 group-title="ip",PREMIERE 4 HD 
+http://pdsrv.io:80/regina2020/regina2020/62619
+#EXTINF:-1 group-title="ip",PREMIERE 4 HD 
+http://pdsrv.io:80/regina2020/regina2020/61051
+#EXTINF:-1 group-title="ip",PREMIERE 4 HD
+http://pdsrv.io:80/regina2020/regina2020/6091
+#EXTINF:-1 group-title="ip",PREMIERE 4 SD
+http://pdsrv.io:80/regina2020/regina2020/61050
+#EXTINF:-1 group-title="ip",PREMIERE 4 SD
+http://pdsrv.io:80/regina2020/regina2020/4339
+#EXTINF:-1 group-title="ip",PREMIERE 5 FHD H264
+http://pdsrv.io:80/regina2020/regina2020/69146
+#EXTINF:-1 group-title="ip",PREMIERE 5 FHD H265
+http://pdsrv.io:80/regina2020/regina2020/9231
+#EXTINF:-1 group-title="ip",PREMIERE 5 FHD
+http://pdsrv.io:80/regina2020/regina2020/61268
+#EXTINF:-1 group-title="ip",PREMIERE 5 HD 
+http://pdsrv.io:80/regina2020/regina2020/62819
+#EXTINF:-1 group-title="ip",PREMIERE 5 HD 
+http://pdsrv.io:80/regina2020/regina2020/61053
+#EXTINF:-1 group-title="ip",PREMIERE 5 HD
+http://pdsrv.io:80/regina2020/regina2020/6090
+#EXTINF:-1 group-title="ip",PREMIERE 5 SD
+http://pdsrv.io:80/regina2020/regina2020/61052
+#EXTINF:-1 group-title="ip",PREMIERE 5 SD
+http://pdsrv.io:80/regina2020/regina2020/4338
+#EXTINF:-1 group-title="ip",PREMIERE 6 FHD H264
+http://pdsrv.io:80/regina2020/regina2020/69147
+#EXTINF:-1 group-title="ip",PREMIERE 6 FHD H265
+http://pdsrv.io:80/regina2020/regina2020/11550
+#EXTINF:-1 group-title="ip",PREMIERE 6 HD 
+http://pdsrv.io:80/regina2020/regina2020/62822
+#EXTINF:-1 group-title="ip",PREMIERE 6 HD 
+http://pdsrv.io:80/regina2020/regina2020/61055
+#EXTINF:-1 group-title="ip",PREMIERE 6 HD
+http://pdsrv.io:80/regina2020/regina2020/10259
+#EXTINF:-1 group-title="ip",PREMIERE 6 SD
+http://pdsrv.io:80/regina2020/regina2020/62820
+#EXTINF:-1 group-title="ip",PREMIERE 6 SD
+http://pdsrv.io:80/regina2020/regina2020/4337
+#EXTINF:-1 group-title="ip",PREMIERE 7 FHD H264
+http://pdsrv.io:80/regina2020/regina2020/69148
+#EXTINF:-1 group-title="ip",PREMIERE 7 FHD H265
+http://pdsrv.io:80/regina2020/regina2020/11549
+#EXTINF:-1 group-title="ip",PREMIERE 7 FHD
+http://pdsrv.io:80/regina2020/regina2020/61270
+#EXTINF:-1 group-title="ip",PREMIERE 7 HD 
+http://pdsrv.io:80/regina2020/regina2020/62824
+#EXTINF:-1 group-title="ip",PREMIERE 7 HD 
+http://pdsrv.io:80/regina2020/regina2020/61057
+#EXTINF:-1 group-title="ip",PREMIERE 7 HD
+http://pdsrv.io:80/regina2020/regina2020/10258
+#EXTINF:-1 group-title="ip",PREMIERE 7 SD
+http://pdsrv.io:80/regina2020/regina2020/61056
+#EXTINF:-1 group-title="ip",PREMIERE 7 SD
+http://pdsrv.io:80/regina2020/regina2020/4336
+#EXTINF:-1 group-title="ip",PREMIERE 8 SD
+http://pdsrv.io:80/regina2020/regina2020/62825
+#EXTINF:-1 group-title="ip",PREMIERE 8 SD
+http://pdsrv.io:80/regina2020/regina2020/20589
+#EXTINF:-1 group-title="ip",PREMIERE 9 SD
+http://pdsrv.io:80/regina2020/regina2020/20588
+#EXTINF:-1 group-title="ip",MOSAICO CONMEBOL
+http://pdsrv.io:80/regina2020/regina2020/68353
+
+
+
+
+
+
+
+
+
+
